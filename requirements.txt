@@ -1,4 +1,6 @@
 streamlit
+Pillow
 torch
+numpy
 transformers
 requests
